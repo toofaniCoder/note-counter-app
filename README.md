@@ -3,6 +3,20 @@
 ### demo
 ![alt text](demo.png "Note Counter App")
 
+## 🧪 Technologies Used
+- ReactJs with Vite
+- Material UI 5
+- Material React Table 2
+
+## 💗 Acknowledgements
+I would like to express my heartfelt thanks to the creators and contributors of the following packages for their incredible work and generosity in providing these free, open-source tools:
+
+- ReactJs with Vite ⚡
+- Material UI 5 🎨
+- Material React Table 2 📊
+
+Your efforts make development easier and more enjoyable for everyone. Thank you! 🙏🚀  
+
 ## Contact Me 📬
 
 Feel free to reach out to me! You can find me on the following platforms:
